@@ -132,6 +132,14 @@ You should now see the `joomla4` (or your chosen name) database listed in phpMyA
    ```
    (Note: `npm` is the Node.js package manager, and `ci` stands for "clean install.")
 
+5. **Start Joomla's Development Server**:
+   Joomla provides a built-in PHP server for local testing. To start it, run the following command:
+   ```bash
+   php -S localhost:8000 -t .
+   ```
+   Then, open [http://localhost:8000](http://localhost:8000) in your browser to view your Joomla site.
+
+
 ---
 
 This guide provides a quick overview of setting up a local Joomla development environment using XAMPP, Composer, and other essential tools. Once everything is set up, you can start building and managing Joomla-based projects locally!
