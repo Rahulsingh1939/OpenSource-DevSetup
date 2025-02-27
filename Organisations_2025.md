@@ -1,0 +1,194 @@
+# List of Organizations
+
+A curated list of organizations, projects, and foundations, presented alphabetically for easy reference.
+
+## Organizations
+- **52°North Spatial Information Research GmbH**
+- **AboutCode**
+- **Accord Project**
+- **AFLplusplus**
+- **Alaska**
+- **AnkiDroid**
+- **AOSSIE**
+- **Apache DataFusion**
+- **Apache Software Foundation**
+- **API Dash**
+- **ArduPilot**
+- **AsyncAPI**
+- **BeagleBoard.org**
+- **Blender Foundation**
+- **BRL-CAD**
+- **cBioPortal for Cancer Genomics**
+- **CCExtractor Development**
+- **Center for Translational Data Science**
+- **Ceph**
+- **CERN-HSF**
+- **CGAL Project**
+- **CHAOSS**
+- **Checker Framework**
+- **checkstyle**
+- **Chromium**
+- **CircuitVerse.org**
+- **CloudCV**
+- **CNCF**
+- **CRIU**
+- **D Language Foundation**
+- **Dart**
+- **Data for the Common Good**
+- **DBpedia**
+- **Debian**
+- **DeepChem**
+- **Department of Biomedical Informatics, Emory University**
+- **Django Software Foundation**
+- **dora-rs**
+- **Drupal Association**
+- **Eclipse Foundation**
+- **Electron**
+- **Fedora Project**
+- **FFmpeg**
+- **FLARE**
+- **Fortran-lang**
+- **FOSSASIA**
+- **FOSSology**
+- **Free and Open Source Silicon Foundation**
+- **FreeCAD**
+- **freifunk**
+- **GeomScale**
+- **Git**
+- **GitLab**
+- **GNOME Foundation**
+- **GNSS-SDR**
+- **GNU Compiler Collection (GCC)**
+- **GNU Image Manipulation Program (GIMP)**
+- **GNU Octave**
+- **GNU Radio**
+- **Google DeepMind**
+- **gprMax**
+- **GRAME**
+- **Graphite**
+- **Haskell.org**
+- **HumanAI**
+- **INCF**
+- **Inkscape**
+- **International Catrobat Association**
+- **Internet Archive**
+- **Internet Health Report**
+- **Invesalius**
+- **IOOS**
+- **JabRef e.V.**
+- **JAX and Keras**
+- **JdeRobot**
+- **Jenkins**
+- **Jitsi**
+- **Joomla!**
+- **JSON Schema**
+- **KDE Community**
+- **Keploy**
+- **Kiwix**
+- **Kornia**
+- **Kotlin Foundation**
+- **kro | Kube Resource Orchestrator**
+- **Kubeflow**
+- **KubeVirt**
+- **LabLua**
+- **Learning Equality**
+- **LibreOffice**
+- **libssh**
+- **Liquid Galaxy project**
+- **LLVM Compiler Infrastructure**
+- **Machine Learning for Science (ML4SCI)**
+- **MariaDB**
+- **MBDyn**
+- **MDAnalysis**
+- **Meshery**
+- **MetaBrainz Foundation Inc**
+- **Micro Electronics Research Lab - UITU**
+- **MIT App Inventor**
+- **Mixxx**
+- **National Resource for Network Biology (NRNB)**
+- **Neovim**
+- **Neuroinformatics Unit**
+- **NumFOCUS**
+- **omegaUp**
+- **Open Climate Fix**
+- **Open Food Facts**
+- **Open HealthCare Network**
+- **Open Robotics**
+- **Open Science Initiative for Perfusion Imaging**
+- **Open Science Labs**
+- **Open Technologies Alliance - GFOSS**
+- **Open Transit Software Foundation**
+- **OpenAFS**
+- **OpenAstronomy**
+- **OpenCV**
+- **OpenELIS Global**
+- **OpenMRS**
+- **OpenMS**
+- **OpenStreetMap**
+- **openSUSE Project**
+- **OpenVINO Toolkit**
+- **OpenWISP**
+- **Oppia Foundation**
+- **Organic Maps**
+- **OSGeo (Open Source Geospatial Foundation)**
+- **OWASP Foundation**
+- **PAL Robotics**
+- **PEcAn Project**
+- **Pharo Consortium**
+- **Plone Foundation**
+- **PostgreSQL**
+- **Processing Foundation**
+- **Project Mesa**
+- **Prometheus-Operator**
+- **Python Software Foundation**
+- **QC-Devs**
+- **QEMU**
+- **R project for statistical computing**
+- **Rizin**
+- **rocket.chat**
+- **Rspamd**
+- **RTEMS Project**
+- **SageMath**
+- **Scala Center**
+- **ScummVM**
+- **Society for Arts and Technology (SAT)**
+- **Software and Computational Systems Lab at LMU Munich**
+- **SQLancer**
+- **St. Jude Children's Research Hospital**
+- **stdlib**
+- **Ste||ar group**
+- **Stichting SU2**
+- **Sugar Labs**
+- **SW360**
+- **Swift**
+- **SymPy**
+- **Synfig**
+- **TARDIS RT Collaboration**
+- **The FreeBSD Project**
+- **The Honeynet Project**
+- **The JPF team**
+- **The Julia Language**
+- **The Linux Foundation**
+- **The Mifos Initiative**
+- **The NetBSD Foundation**
+- **The ns-3 Network Simulator Project**
+- **The P4 Language Consortium**
+- **The Palisadoes Foundation**
+- **The Rust Foundation**
+- **The Tor Project**
+- **Typelevel**
+- **UC OSPO**
+- **Unicode, Inc.**
+- **Unikraft**
+- **Uramaki LAB**
+- **VideoLAN**
+- **Wagtail**
+- **Waycrate**
+- **webpack**
+- **Wellcome Sanger Tree of Life**
+- **Zendalona**
+- **Zulip**
+
+---
+
+*Generated on February 27, 2025*
