@@ -1,0 +1,29 @@
+# Data for the Common Good (D4CG)
+
+Data for the Common Good (D4CG) is dedicated to building communities, platforms, and ecosystems that maximize the potential of data to drive discovery and improve human health. By leveraging collaborative efforts and advanced data analytics, D4CG aims to transform health data into actionable insights for the greater good.
+
+## Key Initiatives
+
+### Pediatric Cancer Data Commons (PCDC)
+
+The PCDC is D4CG's flagship project, aggregating clinical data from pediatric, adolescent and young adult (AYA), and adult cancer patients worldwide. Utilizing the open-source Gen3 platform, the PCDC houses data on nearly 40,000 patients, providing a unified portal for researchers to explore and access diverse cancer data. :contentReference[oaicite:0]{index=0}
+
+### GEARBOx
+
+Developed in partnership with The Leukemia & Lymphoma Society, GEARBOx is a decision-support tool that matches patients to potential clinical trials based on their clinical and genomic profiles, as well as trial protocol information. Initially designed for acute myeloid leukemia patients, GEARBOx is being expanded to accommodate other cancer types.
+
+### mCODE (Minimal Common Oncology Data Elements)
+
+mCODE is an initiative aimed at enhancing interoperability by establishing a core set of structured data elements for oncology electronic health records (EHRs). This standardized approach facilitates consistent data collection and sharing, improving cancer care quality. :contentReference[oaicite:1]{index=1}
+
+## Additional Resources
+
+- **Integrated Trial Matching for Cancer Patients and Providers**: This resource discusses the integration of trial matching services within EHR systems, enhancing accessibility to clinical trials for patients and providers.
+
+- **Matching Services**: An overview of various services designed to connect patients with appropriate clinical trials, emphasizing the importance of personalized treatment options.
+
+## Learn More
+
+For more information about D4CG and its initiatives, visit the official website: :contentReference[oaicite:2]{index=2}
+
+To stay updated on D4CG's latest developments, consider subscribing to the newsletter or following their social media channels.
