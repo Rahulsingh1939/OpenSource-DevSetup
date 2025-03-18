@@ -24,6 +24,7 @@ mCODE is an initiative aimed at enhancing interoperability by establishing a cor
 
 ## Learn More
 
-For more information about D4CG and its initiatives, visit the official website: :contentReference[oaicite:2]{index=2}
+For more information about D4CG and its initiatives, visit the official website: :
+https://www.hl7.org/fhir/us/mcode/
 
-To stay updated on D4CG's latest developments, consider subscribing to the newsletter or following their social media channels.
+https://confluence.hl7.org/spaces/COD/pages/66938394/Integrated+Trial+Matching+for+Cancer+Patients+and+Providers
