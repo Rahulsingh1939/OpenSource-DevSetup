@@ -35,3 +35,26 @@ https://github.com/mcode/clinical-trial-matching-service
 https://gearbox.pedscommons.org/
 
 https://github.com/chicagopcdc/gearbox-matching
+
+
+# Project 6: Developing a Translation Service to Connect GEARBOx API with mCODE Trial Matching Service
+
+## Description
+This project aims to build a translation service that connects the **GEARBOx API** with the **mCODE** (Minimal Common Oncology Data Elements) trial matching service. The goal is to enable seamless translation of oncology data between **GEARBOx** and **mCODE**, allowing healthcare providers, researchers, and clinical trial platforms to effectively match patients to relevant clinical trials based on their mCODE-compliant health data.
+
+## Expected Outcomes
+- **Data Mapping & Transformation**
+- **Interoperability & Validation**
+
+## Skills
+- **Python**
+- **Typescript**
+
+## Mentors
+TBD - One of the Senior Developers in the team.
+
+## Project Size
+- **350 hours**
+
+## Rating
+- **Medium**
