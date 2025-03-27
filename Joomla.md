@@ -139,7 +139,13 @@ You should now see the `joomla4` (or your chosen name) database listed in phpMyA
    ```
    Then, open [http://localhost:8000](http://localhost:8000) in your browser to view your Joomla site.
 
+# Reference files For Contribution
+1. Patch FOr Joomla https://docs.google.com/document/d/1qapiatIdaxAiAajqoJoy2HqtvwUKqK8k29nq_t0z7yQ/edit?tab=t.0#heading=h.ibtfjzmc19k6
 
+2. For project 1 Specific https://docs.google.com/document/d/1zKvOqJTru0xcH9W1atUCLSs0IP_q9EMsuu70K67zjIw/edit?copiedFromTrash&tab=t.0
+Two more resources about Joomla Web Services API:
+The API application: 7 pages in free online book by Nicholas Dionysopolous: https://www.dionysopoulos.me/book/com-api.html and next 6.
+Adding a Web Service API to Your Component: chapter 6 of Carlos Cámara’s book Developing Extensions for Joomla! 5 (pages 129-144).
 ---
 
 This guide provides a quick overview of setting up a local Joomla development environment using XAMPP, Composer, and other essential tools. Once everything is set up, you can start building and managing Joomla-based projects locally!
