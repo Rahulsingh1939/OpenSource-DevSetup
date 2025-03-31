@@ -146,6 +146,10 @@ You should now see the `joomla4` (or your chosen name) database listed in phpMyA
 Two more resources about Joomla Web Services API:
 The API application: 7 pages in free online book by Nicholas Dionysopolous: https://www.dionysopoulos.me/book/com-api.html and next 6.
 Adding a Web Service API to Your Component: chapter 6 of Carlos Cámara’s book Developing Extensions for Joomla! 5 (pages 129-144).
+
+2. https://docs.google.com/document/d/1d-m-JqY8Mebtx-N6aZjgenNQ97qV1DI5syjsXiAAL78/edit?tab=t.0
+
+https://docs.google.com/document/d/1X8F55FBSqvSi-35zDE3uXsZmxOi0bkIYcsrs1dW4DEQ/edit?copiedFromTrash&tab=t.0
 ---
 
 This guide provides a quick overview of setting up a local Joomla development environment using XAMPP, Composer, and other essential tools. Once everything is set up, you can start building and managing Joomla-based projects locally!
